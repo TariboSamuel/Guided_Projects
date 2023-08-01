@@ -7,4 +7,4 @@ Files in this repository include:
 * project_analyzing_mobile_app_data
 * project_Exploring Hacker News Posts
 * project_Exploring eBay Car Sales Data
-* project_Finding Heavy Traffic Indicators on I_94
+* project_Finding Heavy Traffic Indicators on I-94
