@@ -8,3 +8,4 @@ Files in this repository include:
 * project_Exploring Hacker News Posts
 * project_Exploring eBay Car Sales Data
 * project_Finding Heavy Traffic Indicators on I-94
+* project_Storytelling Data Visualization on Exchange Rates
